@@ -1,0 +1,5 @@
+Data
+The data that will be used for DiagnoSmart will consist of structured, behavioural and biometric data as well as external data.
+Structured data: It is drawn from the patient records such as the medical history of the patients, a symptom checklist and past diagnoses which are routine information collected and stored in the medical facility.
+Biometric data: Information like the blood pressure level, heart rate and sleeping patterns of patients provide a real time response and alerts the healthcare workers of the potential risks.
+External data: Socioeconomic trends enrich the records by linking the cases of the patient to broader community factors based on the tracking of mental illness. This includes the prevalence of schizophrenia, depression, anxiety, bipolar, and eating disorders across different countries and years.

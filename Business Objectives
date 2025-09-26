@@ -1,0 +1,26 @@
+Our project focuses on helping healthcare workers make better, faster decisions 
+about mental health care by giving them clear insights from data.
+
+•	Business Success Criteria:
+DiagnoSmart should make it easier for healthcare workers to quickly identify mental 
+health trends in their patients or communities and plan resources effectively. Success 
+will be measured by how much it helps reduce manual data analysis, saves time, and 
+supports earlier detection of at-risk patients.
+
+
+•	Business Background:
+Mental health is often overlooked because healthcare workers are busy and lack real-time insights.
+Clinics usually depend on old reports or manual methods, which can delay action. DiagnoSmart helps
+close this gap by analyzing data and showing clear, easy-to-read mental health trends. This allows 
+doctors and nurses to make better decisions and plan more effective interventions.
+
+•	Requirements, Constraints, and Risks:
+	Requirements: The system needs reliable mental health prevalence data, user-friendly dashboards, 
+and integration into clinical workflows.
+
+	Constraints: It must follow patient privacy regulations, use secure data systems, and clearly state 
+that it supports but does not replace professional judgment.
+
+	Risks: Wrong predictions or misinterpretation of results could cause overreaction or missed cases. 
+To reduce this risk, DiagnoSmart will include disclaimers and remind healthcare workers that its outputs
+must be validated clinically.
